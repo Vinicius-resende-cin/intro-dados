@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/132817528641291311/9f7f5ad5f47340379959f4502abbca1d/artifacts
+end_time: 1720637761524
+entry_point_name: ''
+experiment_id: '132817528641291311'
+lifecycle_stage: active
+run_id: 9f7f5ad5f47340379959f4502abbca1d
+run_name: KNN
+run_uuid: 9f7f5ad5f47340379959f4502abbca1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720637674658
+status: 3
+tags: []
+user_id: Vinicius

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/132817528641291311/07a229dabe664374a5f58bb9c737bead/artifacts
+end_time: 1720639684679
+entry_point_name: ''
+experiment_id: '132817528641291311'
+lifecycle_stage: active
+run_id: 07a229dabe664374a5f58bb9c737bead
+run_name: RandomForest
+run_uuid: 07a229dabe664374a5f58bb9c737bead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720639184584
+status: 3
+tags: []
+user_id: Vinicius

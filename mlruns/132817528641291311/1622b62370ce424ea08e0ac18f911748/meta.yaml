@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/132817528641291311/1622b62370ce424ea08e0ac18f911748/artifacts
+end_time: 1720639174450
+entry_point_name: ''
+experiment_id: '132817528641291311'
+lifecycle_stage: active
+run_id: 1622b62370ce424ea08e0ac18f911748
+run_name: MLP
+run_uuid: 1622b62370ce424ea08e0ac18f911748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720639171856
+status: 3
+tags: []
+user_id: Vinicius
