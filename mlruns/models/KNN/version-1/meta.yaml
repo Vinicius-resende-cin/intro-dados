@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720629099672
+current_stage: None
+description: null
+last_updated_timestamp: 1720629099672
+name: KNN
+run_id: 97aea376ef7a4916a09559d1e151a6aa
+run_link: null
+source: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/217732064303862646/97aea376ef7a4916a09559d1e151a6aa/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/217732064303862646/97aea376ef7a4916a09559d1e151a6aa/artifacts/sklearn-model
+user_id: null
+version: 1

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1720630061716
+current_stage: None
+description: null
+last_updated_timestamp: 1720630061716
+name: RandomForest
+run_id: 0b9d01d01bdf4373870b142b19ec0295
+run_link: null
+source: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/217732064303862646/0b9d01d01bdf4373870b142b19ec0295/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/217732064303862646/0b9d01d01bdf4373870b142b19ec0295/artifacts/sklearn-model
+user_id: null
+version: 1

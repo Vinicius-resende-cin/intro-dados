@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Arquivos/Documentos/Faculdade/7p/Intro%20dados/intro-dados/notebooks/mlruns/217732064303862646/368e5fb241844b9b848a1b3279d776e3/artifacts
+end_time: 1720629131598
+entry_point_name: ''
+experiment_id: '217732064303862646'
+lifecycle_stage: active
+run_id: 368e5fb241844b9b848a1b3279d776e3
+run_name: SVC
+run_uuid: 368e5fb241844b9b848a1b3279d776e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720629099957
+status: 3
+tags: []
+user_id: Vinicius
